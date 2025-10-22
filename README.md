@@ -1,4 +1,4 @@
-# SinGluten¬Go
+# SinGluten-Go
 
 # 🍞 SinGluten&Go
 Aplicación web para la comunidad celíaca — Proyecto Full Stack (Angular + Spring Boot)
