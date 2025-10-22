@@ -28,7 +28,6 @@ Permite:
 **Frontend:** Angular 17  
 **Backend:** Spring Boot 3 + MySQL  
 **Lenguaje:** Java 17  
-**Diseño:** Figma, CSS BEM, Tailwind  
 
 ---
 
