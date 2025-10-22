@@ -26,8 +26,9 @@ Permite:
 
 ## 👩‍💻 Tecnologías
 **Frontend:** Angular 17  
-**Backend:** Spring Boot 3 + MySQL  
-**Lenguaje:** Java 17  
+**Backend:** Spring Boot + MySQL  
+**Lenguajes de programación:** Java, TypeScript / JavaScript (ES6)  
+**Tecnologías de maquetación y estilo:** HTML, CSS  
 
 ---
 
