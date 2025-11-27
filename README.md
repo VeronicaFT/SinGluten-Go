@@ -33,3 +33,8 @@ Permite:
 ---
 
 ✨ *Proyecto final del ciclo DAW — desarrollado por Verónica Flores Torralba*
+
+## Licencia
+Este proyecto está bajo la licencia **MIT**.  
+Puedes consultar los detalles en el archivo [LICENSE](./LICENSE) de cada repositorio (Backend y Frontend).
+
